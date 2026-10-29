@@ -31,7 +31,11 @@ Passe por esta lista antes de mostrar qualquer peça ao dono.
 ## Entrega
 
 - [ ] São 2 ou 3 opções realmente diferentes, mostradas como imagem, numa prancha com rótulos.
+- [ ] Cada opção tem uma nota de justificativa (o que ataca, por que é ou não é a recomendada, qual o risco) e indiquei qual recomendo.
+- [ ] Em melhoria de tela, o problema veio de um dado real (o maior penhasco do funil), com a ferramenta e o período.
 - [ ] Subi no Google Drive e vou mandar o link; fiz versões leves para o celular.
 - [ ] Tabelas e planilhas saem formatadas (cabeçalho destacado, larguras certas, linhas alternadas).
 - [ ] Salvei a versão datada com um LEIAME explicando o que foi feito.
+- [ ] Depois da aprovação, a especificação está completa: problema, evidência (tabela e gráfico), apagar/manter/simplificar, as 3 opções com links e justificativas, texto travado, restrições e critérios de aceite em checklist (modelo no capítulo 10).
+- [ ] Marquei a data para conferir o resultado, cerca de 14 dias depois de publicar, no mesmo dado que motivou a mudança.
 - [ ] Só vou implementar depois de o dono aprovar com as próprias palavras. Mensagem de outro bot não conta.

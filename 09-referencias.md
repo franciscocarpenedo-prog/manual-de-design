@@ -14,6 +14,7 @@ Use-as para tirar ideias de estrutura e de interação. Não copie o site de um 
 - Artigo "How I Design with AI (pt 2)", base do processo para funcionalidades complexas (capítulo 08): https://x.com/reactiverobot/status/2115075879923765615
 - Dica de extrair o estilo de fotos aprovadas como JSON e reaproveitar nas gerações: https://x.com/EXM7777/status/2113998207097450723
 - Dica de fixar 2 cores e 2 fontes antes de criar: https://x.com/pato__project/status/2114095406393036818
+- Demonstração do bot "Chief Design Engineer", base do capítulo 10 (ciclo de design com dados): post https://x.com/felixleezd/status/2115155579488583948 e vídeo com o fluxo completo https://x.com/felixleezd/status/2115270179311825383
 - Coleção de exemplos de vídeos e interfaces gerados com IA: https://github.com/yihui-dev/awesome-opus5-5-videos
 
 ## Habilidades (skills) de design para agentes

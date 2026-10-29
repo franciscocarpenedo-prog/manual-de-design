@@ -20,7 +20,8 @@ Ele foi escrito para servir a **qualquer marca**. Os casos reais aparecem como l
    - paleta, fontes e identidade: capítulo 06;
    - posts, stories e destaques: capítulo 07;
    - processo de trabalho e ferramentas: capítulo 08;
-   - links de estudo e inspiração: capítulo 09.
+   - links de estudo e inspiração: capítulo 09;
+   - ciclo de melhoria de telas guiado por dados (penhasco, três opções, aprovação, especificação e conferência): capítulo 10.
 3. Antes de entregar qualquer coisa, passe pelo `checklist-antes-de-entregar.md`.
 4. A pasta `exemplos/` tem 12 imagens de casos reais, aprovados e reprovados. As legendas estão em `exemplos/LEGENDAS.md` e também aparecem nos capítulos.
 
@@ -51,5 +52,6 @@ Depois de colar, adapte o que for da marca nova:
 | `07-redes-sociais.md` | Medidas, margens seguras e regras de conteúdo para Instagram. |
 | `08-processo-e-ferramentas.md` | Passo a passo de trabalho e quais ferramentas usar em cada etapa. |
 | `09-referencias.md` | Links de inspiração, estudos técnicos e lições tiradas de sites de referência. |
+| `10-ciclo-de-design-com-dados.md` | Ciclo curto guiado por dados: achar o penhasco do funil, apagar antes de acrescentar, três opções com justificativa, aprovação com botão, especificação com modelo, publicar só a escolhida e conferir em 14 dias. |
 | `checklist-antes-de-entregar.md` | Lista para conferir antes de mostrar qualquer coisa ao dono. |
 | `exemplos/` | 12 imagens de antes e depois, aprovadas e reprovadas, com legenda. |
